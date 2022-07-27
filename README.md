@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Nazmul457
+- 👋 Hi, I’m Md. Nazmul Hassan
 - 👀 I’m interested in Computer Programing
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

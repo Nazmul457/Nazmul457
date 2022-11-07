@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazmul457
 - 👀 I’m interested in Computer Programing
-- 🌱 I’m currently learning .NET framework
+- 🌱 I’m currently learning new DSA and solving problems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
